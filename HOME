@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>International Students Organization</title>
+    <style>
+        /* Add some CSS styling here */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to the International Students Organization</h1>
+        <p>This website is exclusively for our company employees.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#events">Events</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Information about the organization...</p>
+    </section>
+
+    <section id="events">
+        <h2>Upcoming Events</h2>
+        <p>Information about upcoming events...</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Contact information...</p>
+    </section>
+
+    <footer>
+        <p>© 2024 International Students Organization</p>
+    </footer>
+</body>
+</html>
